@@ -31,7 +31,7 @@ const SEO = {
     { name: 'application-name', content: 'RPL Skandakra Dev' },
     { name: 'msapplication-TileColor', content: '#2b5797' },
     { name: 'msapplication-config', content: '/favicon/browserconfig.xml' },
-    { name: 'theme-color', content: '#F7FAFC' },
+    { name: 'theme-color', content: '#ffffff' },
   ],
   additionalLinkTags: [
     {
@@ -58,7 +58,7 @@ const SEO = {
     {
       rel: 'mask-icon',
       href: '/favicon/safari-pinned-tab.svg',
-      color: '#2b5797',
+      color: '#5bbad5',
     },
   ],
 };
