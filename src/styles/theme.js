@@ -11,8 +11,14 @@ const breakpoints = createBreakpoints({
 
 const theme = extendTheme({
   fonts: {
-    heading: `'Inter', ${defaultTheme.fonts.heading}`,
-    body: `'Inter', ${defaultTheme.fonts.body}`,
+    heading: `'Poppins', ${defaultTheme.fonts.heading}`,
+    body: `'Open Sans', ${defaultTheme.fonts.body}`,
+  },
+  colors: {
+    brand: {
+      blue: '#4285f4',
+      green: '#3ddc84',
+    },
   },
   breakpoints,
 });

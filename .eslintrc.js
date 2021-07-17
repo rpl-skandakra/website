@@ -30,6 +30,7 @@ module.exports = {
     'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
     'react/jsx-props-no-spreading': 'off',
     '@next/next/no-page-custom-font': 'off',
+    'import/no-unresolved': 'off',
     'no-plusplus': 'off',
   },
 };

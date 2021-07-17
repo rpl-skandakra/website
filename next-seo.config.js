@@ -13,7 +13,7 @@ const SEO = {
     description,
     images: [
       {
-        url: `${url}/favicon/android-chrome-512x512.png`,
+        url: `${url}/logo.png`,
         alt: title,
         width: 512,
         height: 512,
