@@ -6,7 +6,7 @@ const NavLink = ({ link, name, onClose }) => (
     <Text
       as="a"
       onClick={onClose}
-      fontWeight="700"
+      fontWeight="600"
       textAlign="center"
       transition="all 0.2s ease-in-out"
       _hover={{

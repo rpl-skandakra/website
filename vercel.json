@@ -1,0 +1,16 @@
+{
+  "redirects": [
+    {
+      "source": "/discord",
+      "destination": "https://discord.gg/AmmNs8n"
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/rpl-skandakra"
+    },
+    {
+      "source": "/instagram",
+      "destination": "https://instagram.com/rpl-skandakra"
+    }
+  ]
+}

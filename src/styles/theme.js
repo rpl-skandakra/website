@@ -12,7 +12,7 @@ const breakpoints = createBreakpoints({
 const theme = extendTheme({
   fonts: {
     heading: `'Poppins', ${defaultTheme.fonts.heading}`,
-    body: `'Open Sans', ${defaultTheme.fonts.body}`,
+    body: `'Poppins', ${defaultTheme.fonts.body}`,
   },
   colors: {
     brand: {

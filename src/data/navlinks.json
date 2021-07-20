@@ -1,4 +1,4 @@
 [
-  { "name": "Events", "url": "/events" },
-  { "name": "About", "url": "/about" }
+  { "name": "Kegiatan", "url": "/kegiatan" },
+  { "name": "Tentang", "url": "/tentang" }
 ]

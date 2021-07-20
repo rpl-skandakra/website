@@ -15,6 +15,7 @@ const Navbar = () => (
     mx="auto"
     w="full"
     shadow="sm"
+    transition="background 200ms"
     zIndex="docked"
     sx={{
       background: useColorModeValue(
