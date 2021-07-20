@@ -39,9 +39,9 @@ export default function Home() {
         <Typical steps={types} loop={Infinity} wrapper="p" />
       </Box>
       <Text py={6} textAlign="center">
-        <strong>RPL Skandakra Dev</strong> adalah sebuah komunitas sebagai
-        tempat untuk mendiskusikan berbagai hal terkait teknologi (desain,
-        pengembang, dan sebagainya) yang berbasis di SMK Negeri 2 Karanganyar.
+        <strong>RPL Skandakra Dev</strong> adalah sebuah komunitas untuk
+        mendiskusikan berbagai hal terkait teknologi (desain, pemrograman dan
+        sebagainya) yang berbasis di SMK Negeri 2 Karanganyar.
       </Text>
       <Stack direction={['column', 'row']} w="full" justify="center">
         {socials.map((social) => (

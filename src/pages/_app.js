@@ -35,9 +35,9 @@ function MyApp({ Component, pageProps, router }) {
             flexGrow={1}
             initial="initial"
             variants={{
-              initial: { opacity: 0, y: -10 },
+              initial: { opacity: 0, y: -8 },
               enter: { opacity: 1, y: 0 },
-              exit: { opacity: 0, y: 10 },
+              exit: { opacity: 0, y: 8 },
             }}
           >
             <Component {...pageProps} />

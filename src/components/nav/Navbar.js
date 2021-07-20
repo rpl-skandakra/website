@@ -28,8 +28,19 @@ const Navbar = () => (
     <Container maxW="container.lg">
       <HStack justify="space-between">
         <Link href="/" passHref>
-          <Box boxSize="70px" cursor="pointer">
-            <Image src={logo} alt="RPL Skandakra Dev's Logo" />
+          <Box
+            boxSize="70px"
+            cursor="pointer"
+            transition="all 0.2s ease-in-out"
+            _hover={{
+              transform: 'scale(0.95)',
+            }}
+          >
+            <Image
+              src={logo}
+              alt="RPL Skandakra Dev's Logo"
+              placeholder="blur"
+            />
           </Box>
         </Link>
         <HStack spacing={6}>
