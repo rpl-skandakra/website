@@ -28,11 +28,11 @@ const Navbar = () => (
     <Container maxW="container.lg">
       <HStack justify="space-between">
         <Link href="/" passHref>
-          <Box boxSize="80px" cursor="pointer">
+          <Box boxSize="70px" cursor="pointer">
             <Image src={logo} alt="RPL Skandakra Dev's Logo" />
           </Box>
         </Link>
-        <HStack spacing={10}>
+        <HStack spacing={6}>
           {links.map((link) => (
             <NavLink key={link.name} link={link.url} name={link.name} />
           ))}

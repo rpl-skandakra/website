@@ -4,8 +4,10 @@ const PageContainer = ({ children, title }) => (
   <Stack
     justify="center"
     mx="auto"
-    px={8}
-    h="100vh"
+    pt={[16, 0]}
+    pb={[4, 0]}
+    px={[4, 8]}
+    minH="100vh"
     maxW="container.lg"
     bg={useColorModeValue('gray.50', 'gray.800')}
     transition="background 200ms"
