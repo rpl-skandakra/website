@@ -2,7 +2,7 @@ import { Text, useColorModeValue, VStack } from '@chakra-ui/react';
 
 const Footer = () => (
   <VStack
-    py={4}
+    py={8}
     bg={useColorModeValue('gray.50', 'gray.800')}
     fontSize="sm"
     fontWeight="600"

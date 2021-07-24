@@ -1,11 +1,10 @@
 import { Heading, Stack, useColorModeValue } from '@chakra-ui/react';
 
-const PageContainer = ({ children, title }) => (
+const PageContainer = ({ children, pt, title }) => (
   <Stack
     justify="center"
     mx="auto"
-    pt={[16, 0]}
-    pb={[4, 0]}
+    pt={pt || [16, 0]}
     px={[4, 8]}
     minH="100vh"
     maxW="container.lg"

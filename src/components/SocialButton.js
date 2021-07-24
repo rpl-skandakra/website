@@ -5,7 +5,7 @@ const SocialButton = ({ color, icon, label, link }) => {
 
   return (
     <Button
-      py={6}
+      p={6}
       bg={color}
       color="gray.50"
       leftIcon={icon}
