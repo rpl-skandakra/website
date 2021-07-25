@@ -23,7 +23,7 @@ const Kegiatan = ({ events }) => {
   return (
     <>
       <NextSeo title={title} canonical={url} openGraph={{ url, title }} />
-      <PageContainer title="Kegiatan" pt={20}>
+      <PageContainer title="Kegiatan">
         <VStack spacing={4}>
           {events.map((event) => {
             const {

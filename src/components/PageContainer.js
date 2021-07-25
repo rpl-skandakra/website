@@ -4,7 +4,7 @@ const PageContainer = ({ children, pt, title }) => (
   <Stack
     justify="center"
     mx="auto"
-    pt={pt || [16, 0]}
+    pt={pt || [20, 0]}
     px={[4, 8]}
     minH="100vh"
     maxW="container.lg"
