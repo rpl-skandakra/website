@@ -1,18 +1,12 @@
 # RPL Skandakra Dev Website
 
-## Getting Started
+![Website Tema Terang](docs/website-light.png)
+![Website Tema Gelap](docs/website-dark.png)
 
-## Documentation
+## Lisensi
 
-For more guides, please read:
+Kode ini berlisensi [MIT](LICENSE)
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Chakra UI Documentation](https://chakra-ui.com/)
+## Kredit
 
-## License
-
-This project is under [MIT License](LICENSE)
-
-## Credits
-
-&copy; 2021 Created by [Hendra Agil](https://github.com/hendraaagil)
+&copy; 2021 Dibuat oleh [RPL Skandakra Dev](https://github.com/rpl-skandakra)

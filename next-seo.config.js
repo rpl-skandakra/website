@@ -1,7 +1,7 @@
 const title = 'RPL Skandakra Dev';
 const description =
   'RPL Skandakra Dev adalah sebuah komunitas untuk mendiskusikan berbagai hal terkait teknologi (desain, pemrograman dan sebagainya).';
-const url = 'http://localhost:3000';
+const url = 'https://rplskandakra.org';
 
 const SEO = {
   titleTemplate: `%s | ${title}`,
