@@ -5,7 +5,7 @@ import Typical from 'react-typical';
 import PageContainer from '@/components/PageContainer';
 import SocialButton from '@/components/SocialButton';
 
-export default function Home() {
+const Home = () => {
   const types = [
     'Tempat Untuk Belajar',
     2500,
@@ -56,4 +56,6 @@ export default function Home() {
       </Stack>
     </PageContainer>
   );
-}
+};
+
+export default Home;

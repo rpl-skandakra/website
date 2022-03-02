@@ -2,8 +2,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Box, Container, HStack, useColorModeValue } from '@chakra-ui/react';
 
-import links from '@/data/navlinks.json';
 import logo from 'public/logo.png';
+import links from '@/data/navlinks.json';
 
 import NavLink from './NavLink';
 import ToggleMode from './ToggleMode';
