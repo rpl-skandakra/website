@@ -2,3 +2,13 @@
   from = "/discord"
   to = "https://discord.gg/AmmNs8n"
   status = 200
+
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/rpl-skandakra"
+  status = 200
+
+[[redirects]]
+  from = "/instagram"
+  to = "https://instagram.com/rplskandakra.dev"
+  status = 200
