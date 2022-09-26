@@ -1,7 +1,7 @@
 const title = 'RPL Skandakra Dev';
 const description =
   'RPL Skandakra Dev adalah sebuah komunitas untuk mendiskusikan berbagai hal terkait teknologi (desain, pemrograman dan sebagainya).';
-const url = 'https://rplskandakra.netlify.app';
+const url = 'https://rplskandakra.dev';
 
 const SEO = {
   titleTemplate: `%s | ${title}`,
